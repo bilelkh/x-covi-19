@@ -5,6 +5,5 @@
 .class
 .preferences
 .idea
-dist
 node_modules
 docs
